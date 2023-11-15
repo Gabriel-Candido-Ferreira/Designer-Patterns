@@ -1,7 +1,7 @@
----
-title: "Designer-Patterns: Uma Visão Abrangente"
-author: "Gabriel Cândido Ferreira Dias"
----
+
+# "Designer-Patterns: Uma Visão Abrangente"
+# "Gabriel Cândido Ferreira Dias"
+
 
 # Introdução
 
