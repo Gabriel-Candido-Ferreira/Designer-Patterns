@@ -1,6 +1,6 @@
 
-# "Designer-Patterns: Uma Visão Abrangente"
-# "Gabriel Cândido Ferreira Dias"
+# Designer-Patterns
+### Gabriel Cândido Ferreira Dias
 
 
 # Introdução
